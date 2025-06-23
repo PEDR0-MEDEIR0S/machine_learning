@@ -14,7 +14,7 @@ Detecção de fraudes em transações com cartão de crédito utilizando técnic
 ```bash
 creditcardfraud/
 │
-├── creditcard_fraud/                 # Diretório com o dataset original
+├── creditcard_fraud_dataset/                 # Diretório com o dataset original
 │   └── creditcard.csv                # Base de dados de transações
 │
 ├── __pycache__/                      # Cache do Python
